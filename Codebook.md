@@ -11,40 +11,40 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals prod
 These signals were used to estimate variables of the feature vector for each pattern:  
 '-xyz' is used to denote 3-axial signals in the X, Y and Z directions.
 
-id
-outcome
-Time-body-Average-acc-Mean-xyz
-Time-Average-gravityacc-Mean-xyz
-Time-body-Average-accjerk-Mean-xyz
-Time-body-Average-gyro-Mean-xyz
-Time-body-Average-gyrojerk-Mean-xyz
-Time-body-Average-accmag-Mean
-Time-Average-gravityaccmag-Mean
-Time-body-Average-accjerkmag-Mean
-Time-body-Average-gyromag-Mean
-Time-body-Average-gyrojerkmag-Mean
-Fourier-body-Average-acc-Mean-xyz
-Fourier-body-Average-accjerk-Mean-xyz
-Fourier-body-Average-gyro-Mean-xyz
-Fourier-body-Average-accmag-Mean
-Fourier-body-Average-bodyaccjerkmag-Mean
-Fourier-body-Average-bodygyromag-Mean
-Fourier-body-Average-bodygyrojerkmag-Mean
+id\
+outcome\
+Time-body-Average-acc-Mean-xyz\
+Time-Average-gravityacc-Mean-xyz\
+Time-body-Average-accjerk-Mean-xyz\
+Time-body-Average-gyro-Mean-xyz\
+Time-body-Average-gyrojerk-Mean-xyz\
+Time-body-Average-accmag-Mean\
+Time-Average-gravityaccmag-Mean\
+Time-body-Average-accjerkmag-Mean\
+Time-body-Average-gyromag-Mean\
+Time-body-Average-gyrojerkmag-Mean\
+Fourier-body-Average-acc-Mean-xyz\
+Fourier-body-Average-accjerk-Mean-xyz\
+Fourier-body-Average-gyro-Mean-xyz\
+Fourier-body-Average-accmag-Mean\
+Fourier-body-Average-bodyaccjerkmag-Mean\
+Fourier-body-Average-bodygyromag-Mean\
+Fourier-body-Average-bodygyrojerkmag-Mean\\
 
 
 The set of variables that were estimated from these signals are: 
 
-Mean: Mean value
-SD: Standard deviation
+Mean: Mean value\
+SD: Standard deviation\
 
 
 Additional to the measures variable, there are the:
 
-id: the subject 
-activity : the activity labels are divided in
-  1 WALKING
-  2 WALKING_UPSTAIRS
-  3 WALKING_DOWNSTAIRS
-  4 SITTING
-  5 STANDING
-  6 LAYING
+id: the subject \
+activity : the activity labels are divided in\
+  1 WALKING\
+  2 WALKING_UPSTAIRS\
+  3 WALKING_DOWNSTAIRS\
+  4 SITTING\
+  5 STANDING\
+  6 LAYING\
