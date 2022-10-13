@@ -2,6 +2,8 @@ Variables
 =================
 
 
+(information extracted from the original codebook)
+
 The variables average measure taken from the accelerometer and gyroscope 3-axial raw signals "Time-body-Average-acc-Mean-xyz" and "Time-body-Average-gyro-Mean-xyz". The time domain signals were captured at a constant rate of 50 Hz. Then they were filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise. Similarly, the acceleration signal was then separated into body and gravity acceleration signals ("Time-body-Average-acc-Mean-xyz" and "Time-body-Average-gyro-Mean-xyz") using another low pass Butterworth filter with a corner frequency of 0.3 Hz. 
 
 Subsequently, the body linear acceleration and angular velocity were derived in time to obtain Jerk signals (Time-body-Average-accjerk-Mean-xyz and Time-body-Average-gyrojerk-Mean-xyz. Also the magnitude of these three-dimensional signals were calculated using the Euclidean norm (Time-body-Average-accmag-Mean, Time-gravity-Average-accmag-Mean, Time-body-Average-accjerkmag-Mean, Time-body-Average-gyromag-Mean, Time-body-Average-gyrojerkmag-Mean). 
